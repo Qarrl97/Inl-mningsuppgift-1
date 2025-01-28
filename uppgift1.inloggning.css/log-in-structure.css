@@ -1,0 +1,81 @@
+
+body{
+height: 1000px;
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+
+.bas{
+  width: 500px;
+  height: 600px;
+  top: 100px;
+  margin-top: 100px;
+  
+}
+
+.welcome{
+  margin-bottom: 0;
+  margin-top: 40px;
+}
+
+.top{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.mail-lösen{
+  display: flex;
+  flex-direction: row;
+  gap: 150px;
+  margin-top: 40px;
+}
+
+.mail-password-container{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.buttons{
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin-top: 20px;
+}
+
+.button-mail-password{
+  width: 100px;
+}
+
+.top-2{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-bottom: 0;
+  padding-top: 0;
+}
+
+.login{
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.checkbox {
+  position: absolute;
+  right: 400px;
+}
+
+.remember-me{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  margin-top: 50px;
+  padding-top: 0;
+  
+}
+
+
+
